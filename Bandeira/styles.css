@@ -1,0 +1,17 @@
+#azul {
+    height: 695px;
+    width: 400px;
+    position: absolute;
+    background-color: blue;
+    top: 0px;
+    left: 0px;
+}
+
+#vermelho {
+    height: 695px;
+    width: 400px;
+    position: absolute;
+    background-color: red;
+    top: 0px;
+    right: 0px;
+}
